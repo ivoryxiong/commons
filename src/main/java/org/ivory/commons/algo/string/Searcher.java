@@ -1,8 +1,7 @@
-package org.ivory.commoms.algo.string;
+package org.ivory.commons.algo.string;
 
 /**
 Simple interface for single string match
-
 @author ivoryxiong
 */
 public interface Searcher{
